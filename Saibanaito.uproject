@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "DidItHit",
+			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]
